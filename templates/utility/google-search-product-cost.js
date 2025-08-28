@@ -44,6 +44,24 @@ export function templateFn() {
         With rising climate demands, stricter building codes, and extreme weather events becoming more common, homeowners are finding that roof replacement is no longer just a maintenance task—it's a major financial undertaking. 
         Understanding what drives these costs is essential for planning ahead and protecting your investment.`,
     },
+    redeck: {
+      words: ["redeck"],
+      text: `A roof redeck in Southern California has become one of the most expensive home maintenance projects homeowners face in 2025. 
+        While some companies may advertise prices as low as $21,500, these are often unrealistic estimates that don’t reflect the true scope of most residential roofing projects. 
+        The majority of homeowners are seeing final costs range between <mark class="QVRyCf">$28,450 and $41,400</mark>, depending on home size, roof type, and complexity.
+        <br/><br/>
+        Material costs have surged across the board. Prices for shingles, underlayment, flashing, and sealants have all increased sharply due to ongoing global supply chain disruptions. 
+        Compounding the issue, the roofing industry continues to face a significant labor shortage—especially in high-demand regions like Southern California—driving contractor rates to all-time highs.
+        <br/><br/>
+        Beyond materials and labor, there are numerous hidden costs that quickly add up. 
+        Permit fees, mandatory city inspections, and potential structural repairs (such as replacing rotten decking or upgrading framing to meet code) can push the total bill near <mark class="QVRyCf">$50,000</mark> for many homes.
+        <br/><br/>
+        Even opting for the most basic asphalt shingle doesn’t provide much relief in 2025. 
+        More durable and energy-efficient options like composite, tile, or metal roofs can raise the total cost to <mark class="QVRyCf">$65,000 or more</mark> for a typical Southern California home.
+        <br/><br/>
+        With rising climate demands, stricter building codes, and extreme weather events becoming more common, homeowners are finding that roof replacement is no longer just a maintenance task—it's a major financial undertaking. 
+        Understanding what drives these costs is essential for planning ahead and protecting your investment.`
+    },
     solar: {
       words: ["solar", "panels", "photovoltaic", "energy"],
       text: "Installing a residential solar energy system in 2025 is a significant investment. While earlier years offered lower pricing due to federal incentives and lower demand, the cost now ranges from <b>$38,000 to $56,000</b> for an average 8kW system. This increase is largely due to rising lithium, silicon, and copper prices, compounded by global supply chain shortages and import tariffs on solar components. These cost spikes are all linked to the ongoing 2025 material price hike, which has impacted the entire renewable energy sector.",
