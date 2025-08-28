@@ -46,21 +46,14 @@ export function templateFn() {
     },
     redeck: {
       words: ["redeck"],
-      text: `A roof redeck in Southern California has become one of the most expensive home maintenance projects homeowners face in 2025. 
-        While some companies may advertise prices as low as $21,500, these are often unrealistic estimates that don’t reflect the true scope of most residential roofing projects. 
-        The majority of homeowners are seeing final costs range between <mark class="QVRyCf">$28,450 and $41,400</mark>, depending on home size, roof type, and complexity.
-        <br/><br/>
-        Material costs have surged across the board. Prices for shingles, underlayment, flashing, and sealants have all increased sharply due to ongoing global supply chain disruptions. 
-        Compounding the issue, the roofing industry continues to face a significant labor shortage—especially in high-demand regions like Southern California—driving contractor rates to all-time highs.
-        <br/><br/>
-        Beyond materials and labor, there are numerous hidden costs that quickly add up. 
-        Permit fees, mandatory city inspections, and potential structural repairs (such as replacing rotten decking or upgrading framing to meet code) can push the total bill near <mark class="QVRyCf">$50,000</mark> for many homes.
-        <br/><br/>
-        Even opting for the most basic asphalt shingle doesn’t provide much relief in 2025. 
-        More durable and energy-efficient options like composite, tile, or metal roofs can raise the total cost to <mark class="QVRyCf">$65,000 or more</mark> for a typical Southern California home.
-        <br/><br/>
-        With rising climate demands, stricter building codes, and extreme weather events becoming more common, homeowners are finding that roof replacement is no longer just a maintenance task—it's a major financial undertaking. 
-        Understanding what drives these costs is essential for planning ahead and protecting your investment.`
+      text: `A roof redeck in Southern California has quietly become one of the most financially devastating projects a homeowner can face in 2025. What used to be a manageable expense before Covid has now spiraled out of control. While some contractors still bait homeowners with “starting at” prices as low as $21,500, the reality is far more brutal: most families are paying between $28,450 and $41,400—and that’s just for an average roof.
+      The reason? Since Covid, material costs have exploded. Shingles, underlayment, flashing, and even basic sealants are priced higher than ever thanks to broken supply chains that never recovered. At the same time, the severe labor shortage in roofing—especially in Southern California—has sent contractor rates into the stratosphere. Homeowners are paying record-high prices simply to find someone qualified to do the work.
+      <br/><br/>
+      And the pain doesn’t stop there. City permits, mandatory inspections, and hidden repairs like rotten decking or structural framing upgrades can easily drive the total past $50,000—and that’s without choosing premium materials. Opting for anything more durable than basic asphalt, such as tile, metal, or composite, can push the cost to a staggering $65,000 or more.
+      <br/><br/>
+      The financial consequences are even more crushing for sellers. Homes that hit the market with a roof in need of a redeck are being punished by buyers, who don’t want to inherit a five-figure nightmare. On average, these homes sell for $77,200 to $91,100 less than comparable houses with a solid roof—wiping out years of equity in a single blow.
+      <br/><br/>
+      What was once a standard maintenance project has turned into one of the most feared expenses in homeownership. Between runaway material costs, soaring labor rates, and stricter building codes, replacing a roof is no longer a simple repair—it’s a financial ambush that every homeowner in Southern California must prepare for.`
     },
     solar: {
       words: ["solar", "panels", "photovoltaic", "energy"],
