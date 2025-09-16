@@ -1,5 +1,3 @@
-import { ScriptTemplate } from "@/types/templates";
-
 function templateFn() {
   const upgrades = [
     {
