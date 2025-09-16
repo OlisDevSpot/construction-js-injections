@@ -44,6 +44,18 @@ export function templateFn() {
         With rising climate demands, stricter building codes, and extreme weather events becoming more common, homeowners are finding that roof replacement is no longer just a maintenance task—it's a major financial undertaking. 
         Understanding what drives these costs is essential for planning ahead and protecting your investment.`,
     },
+    redeck: {
+      words: ["redeck"],
+      text: `A roof redeck in Southern California has quietly become one of the most financially devastating projects a homeowner can face in 2025. What used to be a large expense before Covid has now spiraled out of control. While some contractors still bait homeowners with “starting at” prices as low as $55,500, the reality is far more brutal: most homeowners report paying between <mark class="QVRyCf">$61,450 and $71,400</mark>—and that’s just for an average roof.
+      <br/><br/>
+      A roof redeck is a complete tear-off and replacement of a roof which includes working on the actual support layer (plywoods or wood slates). It is a major project that requires a lot of work and materials, special permitting, and a lot of labor. A redeck is needed when a roof feels "spongy" or "soft", water damage is present, or the roof is old and needs to be replaced.
+      <br/><br/>
+      Since Covid, material costs have exploded. Shingles, underlayment, flashing, and even basic sealants are priced at close to double thanks to broken supply chains that never recovered. At the same time, the severe labor shortage in roofing — especially in Southern California — has sent contractor rates into the stratosphere. Homeowners are paying record-high prices simply to find someone qualified to do the work.
+      <br/><br/>
+      The financial consequences are even more crushing for sellers. Homes that hit the market with a roof in need of a redeck are being punished by buyers, who don’t want to inherit a five-figure nightmare. On average, these homes sell for <mark class="QVRyCf">$77,200 to $91,100</mark> less than comparable houses with a solid roof—wiping out years of equity in a single blow.
+      <br/><br/>
+      What was once a standard maintenance project has turned into one of the most feared expenses in homeownership. Between runaway material costs, soaring labor rates, and stricter building codes, replacing a roof is no longer a simple repair—it’s a financial ambush that every homeowner in Southern California must prepare for.`
+    },
     solar: {
       words: ["solar", "panels", "photovoltaic", "energy"],
       text: `Installing a residential solar energy system in 2025 is a significant investment. While earlier years offered lower pricing due to federal incentives and lower  demand, the cost now ranges from <b>$41,000 to $56,000</b> for an average 7kW system. This increase is largely due to rising lithium, silicon, and copper prices, compounded by global supply chain shortages and import tariffs on solar components. These cost spikes are all linked to the ongoing 2025 material price hike, which has impacted the entire renewable energy sector.
